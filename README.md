@@ -1,4 +1,4 @@
-# CPU_Performance_Prediction_with_LazyPredict
+# CPU Performance Prediction with LazyPredict
 This project aims to forecast the performance of CPUs characterized by parameters such as cycle time and memory capacity. The purpose is to assist in selecting optimal hardware for data science and machine learning tasks by developing a predictive model that accurately estimates CPU performance.
 
 ## Table of Contents
@@ -14,8 +14,8 @@ To set up this project, you need to have Python installed. Follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/zhmammadoff/CPU_Performance_Prediction_LazyPredict.git
-   cd CPU_Performance_Prediction
+   git clone https://github.com/zhmammadoff/CPU_Performance_Prediction_with_LazyPredict.git
+   cd CPU_Performance_Prediction_with_LazyPredict
 2. Create a virtual environment and activate it:
    ```bash
    python -m venv venv
